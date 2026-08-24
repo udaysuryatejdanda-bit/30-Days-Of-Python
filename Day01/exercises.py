@@ -22,3 +22,12 @@ print(type("danda"))
 print(type("INDIA"))
 #Level 2
 #exercise 1
+#ITS SAME AS THE FILE JUST CREATE A FILE LIKE THIS
+#Level 3
+#exercise 2 (because 1 was same as level 1)
+a,b= 2,3;
+c,d= 10,8;
+e=(a-c)**2
+f=(b-d)**2
+g=(e+f)**(1/2)
+print(g)
